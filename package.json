@@ -1,0 +1,14 @@
+{
+  "name": "codex-test",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal test project for validating Codex Cloud environment setup.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
